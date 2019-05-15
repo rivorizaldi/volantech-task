@@ -1,4 +1,4 @@
-var goldPrice = [100, 110, 120, 89, 98, 110, 90, 112, 105, 100];
+let goldPrice = [100, 110, 120, 89, 98, 110, 90, 112, 105, 100];
 
 let profit = 0;
 let tempProfit = 0;
